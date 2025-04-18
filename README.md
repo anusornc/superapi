@@ -90,8 +90,7 @@ The `AESGCM` class provides:
    ```bash
    pip install pycryptodome cryptography PyJWT
    ```  
-2. Save the simulation code to `main.py`.  
-3. Run the script:  
+2.  Run the script:  
    ```bash
    python3 main.py
    ```  
